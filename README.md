@@ -18,6 +18,6 @@ This MATLAB-based project aims to develop a robust facial recognition differenti
 
 - 👤 **Faiz Zakwan**
 
-- GitHub: [@faizzakwanrizal](https://github.com/Faizzakwanrizal))
+- GitHub: [@faizzakwanrizal](https://github.com/Faizzakwanrizal)
 - LinkedIn: [Faiz Zakwan](https://www.linkedin.com/in/hfzkdr/)
 - Youtube: [Faiz Zakwan](https://www.youtube.com/@FaizZakwanRizal)
